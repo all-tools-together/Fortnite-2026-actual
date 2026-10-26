@@ -139,3 +139,5 @@ Potential credibility indicators include download-count badges, unsupported safe
 **ADDITIONAL SEARCH INDICATORS:** `fn_loader.exe` `fn_loader.zip` `skin_swapper` `hwid_spoofer` `eac_bypass` `fortnite_internal` `fortnite_external` `aimbot` `esp_overlay` `memory_reader` `dll_injector` `driver_mapper` `spoofing` `anti_cheat_evasion` `undetected` `ban_bypass` `PowerShell iex irm` `remote payload execution` `administrator execution`
 
  
+
+ 

